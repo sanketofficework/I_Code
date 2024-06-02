@@ -1,0 +1,161 @@
+https://developer.shipserv.com/docs/order-management-api/58ae0e7908f3d-introduction
+https://developer.shipserv.com/docs/control-tower-api/bogjg0w9z878k-introduction
+
+04a993e4-f8e7-4345-8601-47a2da682859
+-------------------------------------------------------------------------------------------------------------------------------
+https://api.shipservlabs.com/authentication/oauth2/token?grant_type=password&username=&password=
+user - buyer-12898@shipservtest.com
+password- ShipServ2@22!
+
+
+
+https://api.shipservlabs.com/order-management/documents?type=Requisition
+-----------------------------------------------------------------------------
+
+bhavindobariya7777@gmail.com
+
+5 ways to HTTP
+https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java
+
+
+loging code path
+client id and cilent secret
+
+@Sanket Let me when found authentication username&password  and client_id or client_secrete. Once authentication token created then after Requisitions api call works. 
+
+purchasing ==> requisition API
+desciption
+required get requisition Api
+
+
+<a href="javascript:fnView(frm,'50099854');" class="list"> Test8 </a>
+
+Follow the following comnad for unzip the uploaded zip folder in puTTY server
+
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			DROP DOWN API
+			
+			
+curl --location --request GET 'https://api.shipservlabs.com/master-list/countries'
+curl --location --request GET 'https://api.shipservlabs.com/master-list/tax-status'
+curl --location --request GET 'https://api.shipservlabs.com/master-list/ports'
+curl --location --request GET 'https://api.shipservlabs.com/master-list/transport-modes'
+curl --location --request GET 'https://api.shipservlabs.com/master-list/delivery-terms'
+curl --location --request GET 'https://api.shipservlabs.com/master-list/currencies'
+curl --location --request GET 'https://api.shipservlabs.com/master-list/unit-of-measures'
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+
+
+
+Meeting highlights
+
+1.  Austin gave us one dev enviroment url for API's which they hadn't desclose before
+2.  They said give us your requirements regarding API's put it in excel formate with all fiter's and requirements and send it to in our team's group.
+3.  they missed one field regarding sort column name, sort by date in get list, they will intergrate in next the api's
+4.  now they want to create new login page locally for ESSM application separately.
+
+
+
+1. based url test, lab  ===> credentials
+1. dev server login
+2. status REQ draft, archieve,
+	  RFQ sent archieve draft
+3. sort column name, sort by date in get list
+
+
+
+
+
+
+
+
+
+
+
+1=>create new API
+    -> Inbox to Archived change status. Right now multi checkboxes selection avaialble.so please provided to option pass array as params of selected item id.
+
+2=>Changes sorting not avaialble
+    URL: {{base_url}}/order-management/documents?type=Requisition
+    Description: It's best if you add two params. "sort_column" and "sort_type". so i will pass specific column name and type.
+
+3=>Create Requisition >View >Cancel Item
+    Description: multiple item cancel avaialble. So please provided to option pass array as params of selected item id.
+
+
+
+
+
+project required skills
+
+core java
+worked on Linux Commands
+JSP & Servlets
+JS
+Ant Build Tool
+
+
+
+curl --location --request POST https://api.shipservlabs.com/authentication/oauth2/token --header Content-Type:application/x-www-form-urlencoded --data-urlencode grant_type=password  --data-urlencode username=buyer-12898@shipservtest.com --data-urlencode password=ShipServ2@22!
+
+
+
+
+HashMap<String, String> map = new HashMap<>();
+
+map= s.toString();
+
+String a = map.get("Access Token");
+===============================================
+
+1. multiple sorting applied in fisrt API
+
+2. sorting in Draft not meintioned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
